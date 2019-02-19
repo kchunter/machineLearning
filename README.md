@@ -1,7 +1,7 @@
 # Example of logistic regression in GNU Octave.
 
-## In this example, parameters are learned using advanced built-in optimization function *fminunc.
-## *Fminunc is an optimization solver that finds the minimum of an unconstrained function.
+## In this example, parameters are learned using advanced built-in optimization function **fminunc.
+## **Fminunc is an optimization solver that finds the minimum of an unconstrained function.
 
 ![alt text](https://github.com/kchunter/machineLearning/blob/master/pictures/plottedData.PNG)
 
